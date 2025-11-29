@@ -11,6 +11,7 @@ else:
     TA = 1000.0
     DA = 1000.0
     SALARY = 50000.0
-    Total =(float(HRA)+float(TA)+float(DA)+float(SALARY))
     print("using defult arguments")
+    Total =(float(HRA)+float(TA)+float(DA)+float(SALARY))
+   
     print("Gross salary =",Total)
